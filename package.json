@@ -1,0 +1,24 @@
+{
+  "name": "trading-journal-final",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "googleapis": "^135.0.0",
+    "next-auth": "^4.22.1",
+    "swr": "^2.2.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0",
+    "papaparse": "^5.4.1",
+    "axios": "^1.4.0",
+    "pdfkit": "^0.13.0",
+    "nodemailer": "^6.9.3"
+  }
+}

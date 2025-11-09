@@ -1,2 +1,1 @@
-# Jurnal-Gacor
-Jurnal fitur lengkap
+# Gacor FX — Trading Journal (Final Build Template)\n\nThis project contains a full-stack Next.js trading journal template...\n
